@@ -1,4 +1,4 @@
-# 🚑 Gray Smart Ambulance – AI/ML Internship Assignment
+# Gray Smart Ambulance – AI/ML Internship Assignment
 
 This project implements a **real-time intelligent patient monitoring system for ambulances** using **time-series machine learning, anomaly detection, explainable AI, drift detection, and a live dashboard**.
 
@@ -6,7 +6,7 @@ The system continuously monitors patient vitals, detects early warning signals, 
 
 ---
 
-## 🧠 Key Features
+## Key Features
 
 - Synthetic realistic time-series data generation
 - Motion artifact detection & correction
